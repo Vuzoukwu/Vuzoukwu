@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
 
-- [CompTIA Security+ ce Certification ](https://www.credly.com/earner/earned/badge/373f3bfb-f3ff-40b8-a25c-9c5c65298aff) 
+- [CompTIA Security+ ce Certification ](https://www.credly.com/badges/373f3bfb-f3ff-40b8-a25c-9c5c65298aff) 
 - [Certified in Cybersecurity (CC) ](https://www.credly.com/badges/d9dbbc2b-9a95-4896-8988-ceefa1b77aa6)
 - [Google Technical Support  ](https://www.coursera.org/account/accomplishments/certificate/G4K8TLQY48H4)
 - [Agile Coach Accredited Certification ](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-ACACc956b64d3a-87393933492712.pdf)
