@@ -26,7 +26,7 @@
 [twitter]: 
 [youtube]: 
 [instagram]: 
-[linkedin]: h
+[linkedin]:(https://www.linkedin.com/in/vuzoukwu)
 
 <!--
 **Vuzoukwu/Vuzoukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
